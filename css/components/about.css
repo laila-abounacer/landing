@@ -1,0 +1,20 @@
+.about{
+	width: 700px;
+	margin: 0 auto;
+}
+
+@media (max-width: 960px) {
+  .about {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .about {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .about {
+    width: 300px;
+  }
+}

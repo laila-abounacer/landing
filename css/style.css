@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css2?family=Lora&display=swap);
+
+
+@import url("components/about.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Lora',serif;
+	font-size: 18px;
+	background-color: #124559;
+	margin: 0px;
+	color: white;
+}
+
+h1,h2,h3 {
+	font-family: 'Abril Fatface', serif; 
+	font-weight: lighter;
+	color: white;
+}
+
+a{
+	text-decoration:none;
+}
+
